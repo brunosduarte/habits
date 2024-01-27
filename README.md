@@ -1,8 +1,5 @@
-<p align="center">
-  <img alt="Habits" src=".github/logo.svg" width="15%">
-</p>
-   <h1 align="center">Habits</h1>
- </p>
+<h1 align="center">Habits</h1>
+
 <br />
 <p align="center"> 
    <img src="https://img.shields.io/github/languages/count/brunosduarte/habits" alt="Languages">
@@ -26,7 +23,7 @@
 
 ## 📋 Project
 
-An full stack application (web and mobile version) for monitoring daily tasks to help users track their completed and incomplete
+A full stack application (web and mobile version) for monitoring daily tasks to help users track their completed and incomplete
 activities.
 
 ### 🚀 Technologies
@@ -38,7 +35,7 @@ activities.
 ##### 💻 frontend:
 
 <p align="center"> 
-  <img alt="Habits" src=".github/cover.png" width="100%">
+  <img alt="Habits" src="cover.png" width="100%">
 </p>
 
 ## 📦 Instalation
