@@ -1,5 +1,6 @@
 {
-  "name": "web",
+  "name": "habits",
+  "author": "Bruno S. Duarte",
   "private": true,
   "version": "0.0.0",
   "type": "module",

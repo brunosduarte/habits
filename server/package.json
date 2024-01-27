@@ -2,6 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Bruno S. Duarte",
   "license": "MIT",
   "scripts": {
     "dev": "tsx --watch src/server.ts"
