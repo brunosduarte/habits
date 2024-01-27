@@ -28,6 +28,9 @@ activities.
 
 ### 🚀 Technologies
 
+[![React.js](https://img.shields.io/badge/React-gray?logo=React)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=Node.js)](https://nodejs.org)
+[![React Native](https://img.shields.io/badge/React_Native-gray?logo=React?logoColor=purple)](https://react.dev)
 [![Expo](https://img.shields.io/badge/Expo-gray?logo=Expo)](https://expo.dev)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=TailwindCSS)](https://tailwindcss.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)](https://typescriptlang.org)
