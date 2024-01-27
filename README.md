@@ -28,7 +28,14 @@ activities.
 
 ### 🚀 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,expo,tailwindcss,typescript,fastify,zod,mermaid-js,prisma,dayjs)](https://skillicons.dev)
+[![Expo](https://img.shields.io/badge/Expo-gray?logo=Expo)](https://expo.dev)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=TailwindCSS)](https://tailwindcss.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)](https://typescriptlang.org)
+[![Fastify](https://img.shields.io/badge/Fastify-gray?logo=Fastify)](https://fastify.io)
+[![Zod](https://img.shields.io/badge/Zod-gray?logo=Fastify&logoColor=zod)](https://zod.dev)
+[![Mermaid.js](https://img.shields.io/badge/Mermaid.js-gray?logo=Mermaid)](https://mermaid-js.org)
+[![Prisma](https://img.shields.io/badge/Prisma-gray?logo=Prisma)](https://prisma.io)
+
 
 ## 📷 Preview
 
