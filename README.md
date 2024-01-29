@@ -1,4 +1,4 @@
-<h1 align="center">Habits</h1>
+<h1 align="center">habits</h1>
 
 <br />
 <p align="center"> 
@@ -23,7 +23,7 @@
 
 ## 📋 Project
 
-A full stack application (web and mobile version) for monitoring daily tasks to help users track their completed and incomplete
+A full-stack application (web and mobile version) for monitoring daily tasks to help users track their completed and incomplete
 activities.
 
 ### 🚀 Technologies
